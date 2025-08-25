@@ -1,0 +1,2 @@
+whois
+```    This prevents a common error where the deployment fails because the underlying `whois` command isn't found.
